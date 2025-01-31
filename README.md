@@ -20,23 +20,43 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+
+Projeto Mesada Inteligente
+link para download: https://drive.google.com/file/d/1rNJhFeYNnxg4-EoTj5GtQmBcooP65tLh/view
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Olá pessoal, Aqui é o Bruno Zoqbi e, para concluir meu primeiro desafio, compartilho com vocês uma cartilha sobre educação financeira com um breve resumo do método de gestão de finanças pessoais popularmente conhecido como "50-30-20" para aqueles que possuem pouco ou nenhum conhecimento sobre o tema.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+1 - ChatGPT - com a utilização de um prompt utilizando o método FTAE obtive o conteúdo de texto utilizado como conteúdo na cartilha
+
+"Você é um educador financeiro e quero que eu escreva um e-book completo sobre educação financeira feito com base em um resumo explicativo da regra de organização financeira conehcida como 50-30-20 para um público de infanto-juvenil"
+
+2 - Leonardo AI - a imagem de ilustração da capa foi criada utilizando o prompt abaixo:
+
+"gere uma imagem sobre educação financeira para ser utilizada na capa de uma cartilha para o público infanto juvenil"
+
+3 - Google docs - foi utilizada sua versão online para formatação da cartilha e exportação do arquivo em pdf
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
+1 - ChatGPT - com a utilização de um prompt utilizando o método FTAE obtive o conteúdo de texto utilizado como conteúdo na cartilha
+
+"Você é um educador financeiro e quero que eu escreva um e-book completo sobre educação financeira feito com base em um resumo explicativo da regra de organização financeira conehcida como 50-30-20 para um público de infanto-juvenil"
+
+2 - Leonardo AI - a imagem de ilustração da capa foi criada utilizando o prompt abaixo:
+
+"gere uma imagem sobre educação financeira para ser utilizada na capa de uma cartilha para o público infanto juvenil"
+
+3 - Google docs - foi utilizada sua versão online para formatação da cartilha e exportação do arquivo em pdf
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Essa foi minha primeira experiência de entrega de projeto e utilização de IAs para produção de materiais. Sem dúvida com o conhecimento adquirido e o potencial das ferramentas teria sido possível produzir algo melhor e diversas outras idéias. Infelizmente diante das minhas circunstâncias pessoais estou hoje, as 22:54 iniciando a execução dos desafios de projetos que preciso terminar antes que o dia de amanhã se inicie e eu tenha que novamente ter um dia inteiro de trabalho. Como o prazo para finalização do bootcamp é até amanhã preciso agir rápido para ter algo entregável que comprove minha prática e conhecimento das ferramentas mesmo que não seja possível fazer o melhor nesse momento```
 
 ### Exemplos e Insigths
 
